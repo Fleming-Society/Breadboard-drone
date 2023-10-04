@@ -1,16 +1,3 @@
-# Before you read
-**This document is 80% complete, I will add more details when I got the time**
-
-**Junzhe Chen**
-
-**17th Aug. 2023**
-
-**To-do list:**
-
-**Add BoM**
-
-**Fix the grammar**
-
 # Overview
 
 The two wheel car is built onto a small breadboard, with an Arduino Uno attached at the bottom. There are two small DC motor which acts as the driver of the motor each with a dedicate full H bridge to control it. The robot also contains an ultrasonic sensor that is used to avoid obstacles. 
